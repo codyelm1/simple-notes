@@ -1,0 +1,13 @@
+.card-title{
+    font-size: 30px;
+    background-color: bisque;
+    
+    
+}
+.card-body{
+    background-color: burlywood;
+}
+
+.btn-primary{
+    background-color: chartreuse;
+}
